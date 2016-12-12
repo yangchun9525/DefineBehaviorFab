@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="17912305525516"
+    token="7641160377517394473" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="16689335351196"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\github\DefineBehavior\DefineBehaviorFAB\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="17879234758184"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\github\DefineBehavior\DefineBehaviorFAB\app\build\intermediates\builds\debug\17879234758184\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="17899471412314"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\github\DefineBehavior\DefineBehaviorFAB\app\build\intermediates\builds\debug\17899471412314\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="17912305525516" />
+
+</instant-run>
